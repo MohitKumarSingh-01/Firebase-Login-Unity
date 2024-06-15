@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092475253041",
+    "project_id": "fir-login-unity-5f0e7",
+    "storage_bucket": "fir-login-unity-5f0e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092475253041:android:7da9e59fb1b562e9c54010",
+        "android_client_info": {
+          "package_name": "com.TheHorizonGames.FirebaseLoginUnity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7cjVxp5JIvXItSzqIyh7SdyBAUc5qQo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
